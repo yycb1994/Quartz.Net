@@ -1,0 +1,6 @@
+@Quartz.Net.WebApi_HostAddress = http://localhost:5210
+
+GET {{Quartz.Net.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
